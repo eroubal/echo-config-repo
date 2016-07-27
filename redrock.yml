@@ -1,2 +1,3 @@
 redrock.sylon.url: http://sylon
 pitboss.PPMRedirectToKamino: 'true'
+redrock.sylon.serviceProviderRestName: redrock-sb-preview
