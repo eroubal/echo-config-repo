@@ -1,3 +1,5 @@
 eric.nickName: Rubes the sailor
-hazelcast.peers: sylon,sylon2
+users.attasksandbox: please,ROLE_ATTASKCORE,ROLE_ONBEHALFOF
 baseurl: http://sylon
+hazelcast.peers: sylon,sylon2
+users.attaskcoreCRSB01: please,ROLE_ATTASKCORE,ROLE_ONBEHALFOF
