@@ -3,3 +3,4 @@ users.attasksandbox: please,ROLE_ATTASKCORE,ROLE_ONBEHALFOF
 baseurl: http://sylon
 hazelcast.peers: sylon,sylon2
 users.attaskcoreCRSB01: please,ROLE_ATTASKCORE,ROLE_ONBEHALFOF
+remoteRedrocks[0].serviceProviderRestName: redrock-sb-preveiw
