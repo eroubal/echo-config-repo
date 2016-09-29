@@ -1,5 +1,5 @@
 redrock.sylon.serviceProviderRestName: redrock
-redrock.emailGeneration.emailLinkHostname: attask-ondemand.com
+redrock.emailGeneration.emailLinkHostname: atabubbr
 redrock.sylon.url: http://sylon
 pitboss.PPMRedirectToKamino: 'true'
 redrock.loggingParameters.dbLogging: 'true'
